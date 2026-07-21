@@ -1,0 +1,13 @@
+MSME LOAN GUIDELINES & CORPORATE POLICY
+
+1. Fraud Check:
+All MSME and retail applications must pass a strict fraud check. PAN card verification is mandatory. Any duplicate applications within a 30-day window must be flagged.
+
+2. Payment To Income (PTI):
+The total EMI of the new loan must not exceed 35% of the applicant's gross monthly income. This is an internal bank risk management policy to prevent defaults.
+
+3. Loan Amount Limit:
+The total loan amount should not exceed the applicant's annual income. If a requested loan is greater than the stated annual income, the application must be declined.
+
+4. Exceptions:
+Exceptions can only be made by the Branch Manager for high net-worth individuals with a credit score above 800 and existing collateral.

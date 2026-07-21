@@ -1,0 +1,16 @@
+RBI LENDING GUIDELINES FOR BANKS
+
+1. Debt-To-Income (DTI) Ratio:
+Banks must ensure that the total monthly debt obligations of a borrower, including the proposed loan EMI, do not exceed 43% of their gross monthly income. A DTI above 43% is considered high risk and must be rejected for standard retail loans.
+
+2. Loan to Value (LTV):
+For home loans, the LTV ratio should not exceed 80% for loans above 30 Lakhs, and 90% for loans up to 30 Lakhs.
+
+3. Interest Rate Caps:
+Retail loan interest rates must not exceed 22% per annum. Any rate above this is considered predatory lending and is strictly prohibited by RBI mandates.
+
+4. Minimum Employment:
+Applicants for unsecured personal loans must have a continuous employment history of at least 1 year (12 months) to establish stable income.
+
+5. Credit History:
+A minimum credit history of 2 years is required for non-collateralized loans. Applicants with less than 2 years of credit history may only be considered for small-ticket loans with additional collateral.

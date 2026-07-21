@@ -1,0 +1,44 @@
+INDIAN BANKS COMPREHENSIVE TERMS & CONDITIONS, EMI RULES & POLICIES 2026
+
+1. EMI Calculation Formula & Interest Policy:
+EMI is calculated using the formula: EMI = [P x R x (1+R)^N]/[(1+R)^N-1], where P is Principal Loan Amount, R is monthly interest rate, and N is tenure in months.
+Interest rates for floating rate home loans are benchmarked to RBI Repo Rate linked Lending Rate (RLLR/EBLR). When RBI changes the repo rate, bank loan interest rates automatically adjust.
+
+2. Foreclosure Charges & Prepayment Penalties:
+- Floating Rate Home Loans: RBI mandates ZERO foreclosure charges and ZERO prepayment penalties for individual borrowers across all banks (SBI, HDFC, ICICI, IOB, Canara).
+- Fixed Rate & Commercial Loans: Prepayment penalty ranges between 2% to 4% plus GST of the outstanding principal amount.
+
+3. Credit Score (CIBIL) & Approval Criteria:
+- CIBIL Score 750+: Eligible for lowest interest rates, instant digital sanction, and maximum LTV.
+- CIBIL Score 700 - 749: Standard interest rate applies, full document verification.
+- CIBIL Score Below 650: Automatic rejection or requirement for a credit-worthy co-applicant/guarantor.
+
+4. Bank-Specific EMI & Terms Summary:
+
+STATE BANK OF INDIA (SBI):
+- Home Loan EMI: ~Rs. 769 per Lakh for 30 years at 8.50% p.a.
+- Processing Fee: 0.35% (Min Rs. 2000, Max Rs. 10,000).
+- Special Terms: Concession of 0.05% for women borrowers. No pre-payment penalty for home loans.
+
+HDFC BANK:
+- Personal Loan EMI: ~Rs. 2,560 per Lakh for 5 years at 10.50% p.a.
+- Prepayment Penalty: 2% to 4% for personal loans after 12 EMIs.
+- Special Terms: Pre-approved loans disbursed in 10 seconds for existing account holders.
+
+ICICI BANK:
+- Education Loan EMI: ~Rs. 1,307 per Lakh for 10 years at 9.75% p.a.
+- Collateral Threshold: Zero collateral up to Rs. 20 Lakhs for premier institutions (IIMs, IITs, ISB).
+- Processing Fee: 1% of loan amount for education loans.
+
+CANARA BANK:
+- Agriculture Loan (Canara Kisan KCC): Interest rate 7.00% p.a. Effective 4.00% p.a. with 3% prompt repayment incentive for crop loans up to Rs. 3 Lakhs.
+- Special Terms: Flexible repayment schedule matched to crop harvesting season (Kharif and Rabi).
+
+INDIAN OVERSEAS BANK (IOB):
+- Subha Gruha Home Loan: Interest rate 8.60% p.a. Margin 10% for loans up to Rs. 30 Lakhs.
+- Royal Personal Loan: Maximum loan limit is 15 times gross monthly salary.
+
+5. Mandatory Documentation for All Banks:
+- Identity & Address Proof: PAN Card, Aadhaar Card, Passport, or Voter ID.
+- Income Proof (Salaried): Last 3 months payslips, 6 months bank statement, Form 16 / IT Returns for last 2 years.
+- Income Proof (Self-Employed): Last 3 years audited Financial Statements, ITR with computation of income, 12 months bank statement.

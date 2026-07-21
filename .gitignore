@@ -1,0 +1,19 @@
+# Environment variables with sensitive credentials
+.env
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Heavy model binaries (trained models)
+models/*.pkl
+*.pkl
+
+# FAISS Vector Index binary files
+rag/faiss_index.bin
+rag/texts.npy
+
+# IDE & OS settings
+.vscode/
+.idea/
+.DS_Store
